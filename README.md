@@ -30,23 +30,7 @@ This project demonstrates how to implement monitoring, alerting, backup and disa
 
 ## Screenshots
 
-### Resource Group
-![Resource Group](Screenshots/ResourceGroup.png)
-
-### Azure Monitor
-![Azure Monitor](Screenshots/AzureMonitor.png)
-
-### Alert Rule
-![Alert Rule](Screenshots/AlertRule.png)
-
-### Recovery Services Vault
-![Recovery Vault](Screenshots/RecoveryVault.png)
-
-### Backup Success
-![Backup Success](Screenshots/BackupSuccess.png)
-
-### Dashboard
-![Dashboard](Screenshots/Dashboard.png)
+Available inside Screenshots folder.
 
 ## Author
 
